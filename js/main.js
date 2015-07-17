@@ -40,3 +40,14 @@ app.controller('PageCtrl', function (/* $scope, $location, $http */) {
         selector: "a[data-toggle=tooltip]"
     })
 });
+
+app.controller('loadoutcontroller', '$scope', function($scope) {
+    $scope.loadouts = [
+        {
+            name: "Scum Loadout",
+            skin: "flip_rust",
+            request: "scum",
+            note: "Hella cheap"
+        }
+    ]
+});

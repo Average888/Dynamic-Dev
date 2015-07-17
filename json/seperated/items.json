@@ -1,4 +1,4 @@
-"items" : {     
+{"items" : {     
     "0": { name: 
     "AK-47 | Aquamarine Revenge (Battle-Scarred)",
     "last_updated": 1437141608,
@@ -24695,4 +24695,4 @@
     "quantity": 2,
     "value": 12305
     }
-}
+}}
